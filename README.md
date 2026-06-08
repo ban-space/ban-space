@@ -20,25 +20,38 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-
 ## 💫 About Me
 
-```yaml
-name: ban-space
-focus:
-  - Cross-platform mobile development
-  - Modern & seamless web experiences
-  - UI/UX design & creative direction
-tools_i_love:
-  - Figma, Photoshop, Lightroom
-  - Arduino & IoT hardware
-  - Git & open source
-currently_learning: "Always something new 🚀"
-fun_fact: "I design, build, and ship — end to end"
-```
+<div align="center">
 
-<br clear="right"/>
+<!--START_ABOUT-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00D4FF&width=480&lines=%E2%96%B8+Cross-platform+mobile+developer+%F0%9F%93%B1;%E2%96%B8+Building+modern+%26+seamless+websites+%F0%9F%8C%90;%E2%96%B8+UI%2FUX+design+%26+creative+direction+%F0%9F%8E%A8;%E2%96%B8+Arduino+%26+IoT+hardware+tinkerer+%F0%9F%A4%96;%E2%96%B8+I+design%2C+build%2C+and+ship+%E2%80%94+end+to+end+%F0%9F%9A%80" alt="about typing"/>
+
+&nbsp;
+
+| | |
+|---|---|
+|  **Working on** | Cross-platform mobile apps & modern web |
+|  **Design tools** | Figma · Photoshop · Lightroom |
+|  **Hardware** | Arduino & IoT projects |
+|  **Learning** | Always something new |
+|  **Motto** | Design, build, and ship — end to end |
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdnNWxvYzZtbDN1ZGNrbGFtMGJ3NXBtMGY4dGJ5YW5scGVhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding"/>
+
+</td>
+</tr>
+</table>
+<!--END_ABOUT-->
+
+</div>
 
 ---
 
@@ -48,13 +61,11 @@ fun_fact: "I design, build, and ship — end to end"
 
 **Languages**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Databases**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Design & Creative**
 
@@ -124,11 +135,11 @@ fun_fact: "I design, build, and ship — end to end"
 
 <div align="center">
 
-<!-- Animated snake contribution graph -->
+<!-- Snake animation — renders after first GitHub Action run -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ban-space/ban-space/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ban-space/ban-space/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ban-space/ban-space/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ban-space/ban-space/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
