@@ -35,11 +35,11 @@
 
 | | |
 |---|---|
-|  **Working on** | Cross-platform mobile apps & modern web |
-|  **Design tools** | Figma · Photoshop · Lightroom |
-|  **Hardware** | Arduino & IoT projects |
-|  **Learning** | Always something new |
-|  **Motto** | Design, build, and ship — end to end |
+| 🔭 **Working on** | Cross-platform mobile apps & modern web |
+| 🎨 **Design tools** | Figma · Photoshop · Lightroom |
+| 🤖 **Hardware** | Arduino & IoT projects |
+| 🌱 **Learning** | Always something new |
+| ⚡ **Motto** | Design, build, and ship — end to end |
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -64,8 +64,19 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Platforms**
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Convex](https://img.shields.io/badge/Convex-%23EE342F.svg?style=for-the-badge&logo=convex&logoColor=white)
+
+**Databases**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Design & Creative**
 
@@ -91,9 +102,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=ban-space&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api?username=ban-space&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ban-space&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ban-space&theme=tokyonight&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&hide=html,css,markdown" height="180"/>
 
 <br/>
 
