@@ -138,7 +138,7 @@
 
 <div align="center">
 
-[![ban-space's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ban-space&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ban-space's github activity graph](https://github-readme-activity-graph-eta-two.vercel.app/graph?username=ban-space&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&radius=8&custom_title=Ban_Space's%20Contribution%20Graph)](https://github.com/ban-space)
 
 </div>
 
