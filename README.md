@@ -118,7 +118,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ban-space&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=ban-space&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies for ban-space" /></a>
 
 </div>
 
@@ -128,7 +128,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=ban-space&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<a href="https://github.com/ban-space?tab=repositories"><img src="https://github-contrib-stats.vercel.app/ban-space/contributed.svg" alt="Repositories ban-space has contributed to" /></a>
 
 </div>
 
